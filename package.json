@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AnnaLevitski/Metrics/issues"
   },
-  "homepage": "https://github.com/AnnaLevitski/Metrics#readme"
+  "homepage": "https://github.com/AnnaLevitski/Metrics#readme",
+  "dependencies": {
+    "puppeteer": "^21.2.1"
+  }
 }
